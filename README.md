@@ -32,3 +32,4 @@ To explore correlations between trading activity (e.g. profit, volume, leverage,
 
 ---
 
+Access to Colab : https://colab.research.google.com/drive/1ZjyCpvnjoHTr6NPDUYJM28v2lf1mvMQ6?usp=sharing
